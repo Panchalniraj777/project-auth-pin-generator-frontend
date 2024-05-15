@@ -5,7 +5,8 @@ import httpService from '../../../Helper/httpService';
 import { ProjectsWrapper } from './Projects.style';
 import { STATUS_CODES, UPDATE_PIN_DURATION } from '../../../Helper/Constants';
 
-export const Projects = () => {
+
+export const Projects = () => { 
     const [projects, setProjects] = useState([]);
     const [seconds, setSeconds] = useState(0);
 
