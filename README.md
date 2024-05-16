@@ -1,4 +1,4 @@
-# Getting Started with Create React App and Redux
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -7,8 +7,7 @@ Install all the dependencies
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Runs the app in the development mode.
 
 ### `Environment Variables`
 Update the REACT_APP_API_URL in ENV
